@@ -11,7 +11,7 @@ It is containerized using Docker and managed with Docker Compose.
 - View all tasks  
 - Delete tasks  
 - Mark tasks as completed  
-- Attractive GUI (Bootstrap + Mobile UI)
+- Attractive GUI 
 
 ---
 
